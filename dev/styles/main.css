@@ -40,9 +40,13 @@ button {
 }
 #botao-adicionar {
   background-color: #03d803;
+  color: #000000;
+  border: none;
 }
 #botao-cancelar {
   background-color: #ff0000;
+  color: #000000;
+  border: none;
 }
 tbody {
   display: flex;
